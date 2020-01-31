@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-           Hello Teach CS+Social Good EDU TEAM! Live Change!
+           Hello Teach CS+Social Good EDU TEAM! Live Change #2!
         </p>
         <a
           className="App-link"
