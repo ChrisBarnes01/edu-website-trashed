@@ -7,6 +7,7 @@ const App = () => (
     <AddTodo />
     <VisibleTodoList />
     <Footer />
+    <p>Hello! This is cool, because we have added redux to the website!!</p>
   </div>
 )
 export default App
